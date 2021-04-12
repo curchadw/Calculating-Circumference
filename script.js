@@ -18,5 +18,5 @@ const calcGeometry = n =>{
 }
 
 
-console.log(calcGeometry(5))
+
 
